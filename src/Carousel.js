@@ -144,7 +144,7 @@ const Carousel = ({ data }) => {
               position: "absolute",
               display: "flex",
               width: "750px",
-              transform: "translate(23.5%,50%)",
+              transform: "translate(24%,50%)",
               justifyContent: "space-between",
             }}
           >
