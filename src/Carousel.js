@@ -111,7 +111,7 @@ const Carousel = ({ data }) => {
               position: "relative",
               width: "600px",
               marginTop: "20px",
-              marginLeft: "250px",
+              marginLeft: "200px",
               display: "flex",
               overflowX: "hidden",
               scrollBehavior: "smooth",
