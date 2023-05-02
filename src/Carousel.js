@@ -166,7 +166,7 @@ const Carousel = ({ data }) => {
               bgcolor: "#25BEDA",
               display: "flex",
               justifyContent: "center",
-              left: "200px",
+              left: "220px",
               top: "50px",
             }}
           >
